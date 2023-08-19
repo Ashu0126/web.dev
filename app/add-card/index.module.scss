@@ -1,0 +1,52 @@
+.pageContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  img {
+    width: 100%;
+    height: 34rem;
+    object-fit: cover;
+  }
+
+  .formContainer {
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+
+    .formTitle {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .formGroup {
+      margin-bottom: 15px;
+
+      input,
+      select {
+        width: 18rem;
+        height: 2.5rem;
+        outline: none;
+        border: 1px solid #e2e2e2;
+        border-radius: 10rem;
+        padding: 0rem 2rem;
+        font-size: 1rem;
+      }
+
+      select {
+        width: 22rem;
+      }
+
+      button {
+        width: 22rem;
+        height: 2.5rem;
+        font-size: 1rem;
+        border-radius: 10rem;
+        border: 1px solid #8a2be2;
+        background-color: #8a2be2;
+        color: #ffffff;
+      }
+    }
+  }
+}

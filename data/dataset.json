@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Nature",
+    "items": [
+      {
+        "heading": "Beautiful Landscape",
+        "img": "https://storage.googleapis.com/pai-images/7d2d92135c884f2289ae944b3799518e.jpeg",
+        "content": "A breathtaking view of a serene landscape with mountains and lakes."
+      },
+      {
+        "heading": "Flower Garden",
+        "img": "https://www.allaboutgardening.com/wp-content/uploads/2023/03/Flower-garden-in-full-bloom-during-season.jpg",
+        "content": "Vibrant flowers in full bloom in a well-maintained garden."
+      }
+    ]
+  },
+  {
+    "title": "Travel",
+    "items": [
+      {
+        "heading": "Exploring the City",
+        "img": "https://cdn.ca.emap.com/wp-content/uploads/sites/12/2021/09/architectural-review-hong-kong-neon-emily-berla-bovino-5-1361x1100.jpg",
+        "content": "Walking through bustling streets and discovering urban life."
+      },
+      {
+        "heading": "Ancient Architecture",
+        "img": "https://www.re-thinkingthefuture.com/wp-content/uploads/2021/04/A3833-Achitecture-marvels-of-the-Ancient-World_Colosseum_Image-1.jpg",
+        "content": "A glimpse of the past with stunning ancient buildings."
+      }
+    ]
+  },
+  {
+    "title": "Food",
+    "items": [
+      {
+        "heading": "Delicious Pastries",
+        "img": "https://bkmedia.bakingo.com/sq-ferrero-rocher-chocolate-truffle-past0160choc-A_0.jpg",
+        "content": "Mouthwatering pastries fresh out of the oven."
+      },
+      {
+        "heading": "Exotic Fruits",
+        "img": "https://a.cdn-hotels.com/gdcs/production36/d179/2b50ddf5-5d11-408b-a0af-681216a7adfb.jpg",
+        "content": "Colorful and exotic fruits displayed at a local market."
+      }
+    ]
+  },
+  {
+    "title": "Technology",
+    "items": [
+      {
+        "heading": "Digital Innovation",
+        "img": "https://www.einfochips.com/blog/wp-content/uploads/2023/05/Digital_Disruptors-The_5_Cutting-Edge_Technologies_Empowering_the_Future_of_Enterprises_Blog_Featured_Image-scaled.jpg",
+        "content": "Cutting-edge technology shaping the future of digital innovation."
+      },
+      {
+        "heading": "Robotics",
+        "img": "https://www.therobotreport.com/wp-content/uploads/2019/10/Industrial-Robot-Sales-Broke-Records-in-2018.jpg",
+        "content": "The world of robotics and automation in modern industry."
+      }
+    ]
+  },
+  {
+    "title": "Art",
+    "items": [
+      {
+        "heading": "Masterpiece Painting",
+        "img": "https://indianartideas.in/articleimages/1684220387Devotion%20of%20krishna%2012.jpg",
+        "content": "A captivating masterpiece that speaks through colors and brushstrokes."
+      },
+      {
+        "heading": "Sculpture in Nature",
+        "img": "https://gagosian.com/media/images/quarterly/essay-nature-and-inspiration-henry-moore-houghton-hall/_lAZjoOKpd1g_2400x2400.jpg",
+        "content": "Artistic sculptures blending harmoniously with the natural world."
+      }
+    ]
+  }
+]

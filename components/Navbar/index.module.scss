@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  border-bottom: 1px #e2e2e2 solid;
+
+  .logo {
+    width: 10rem;
+  }
+
+  .items {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+  }
+
+  .btn {
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    font-size: 1rem;
+    text-decoration: none;
+    background-color: #8a2be2;
+    border-color: #8a2be2;
+    color: #ffffff;
+  }
+
+  .form-title {
+    text-align: center;
+  }
+}

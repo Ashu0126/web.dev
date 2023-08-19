@@ -1,0 +1,15 @@
+.cardCollection {
+  border-bottom: 1px #e2e2e2 solid;
+  padding: 2rem;
+
+  .cards {
+    display: grid;
+    grid-template-columns: 1.5fr 1.5fr;
+    gap: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+}
