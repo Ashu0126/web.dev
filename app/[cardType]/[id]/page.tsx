@@ -2,7 +2,7 @@
 // Import necessary dependencies
 import React from "react";
 import useForm from "@/hooks/useForm"; // Assuming this is a custom hook
-import style from "./index.module.scss"; // Assuming this is a stylesheet
+import style from "./../index.module.scss"; // Assuming this is a stylesheet
 
 // Define the Page component
 const Page = ({ params }: any) => {
