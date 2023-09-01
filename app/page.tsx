@@ -17,8 +17,12 @@ const Page = () => {
         selectTab={selectTab}
         handleTabClick={handleTabClick}
       />
-      {data.map((items: any) => (
-        <CardCollection title={items.title} cardData={items.items} />
+      {data.map((items: any, index: number) => (
+        <CardCollection
+          key={`${items.title + index}`}
+          title={items.title}
+          cardData={items.items}
+        />
       ))}
     </>
   );

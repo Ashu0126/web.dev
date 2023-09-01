@@ -11,7 +11,7 @@ const CardCollection = (props: any) => {
       <h2>{title}</h2>
       <div className={style.cards}>
         {cardData.map((card: any, index: any) => (
-          <Link href={"/" + title + "/" + (index + 1)}>
+          <Link href={"/" + title + "/" + (index + 1)} key={card}>
             <Card card={card} />
           </Link>
         ))}
