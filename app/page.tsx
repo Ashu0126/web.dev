@@ -2,7 +2,7 @@
 import CardCollection from "@/components/CardCollection";
 import Tab from "@/components/Tab";
 import useForm from "@/hooks/useForm";
-import React, { useState } from "react";
+import React from "react";
 
 const Page = () => {
   const { cardList, handleTabClick, selectTab, filteredCardList } = useForm();

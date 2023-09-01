@@ -10,7 +10,7 @@ const Page = () => {
   return (
     <div className={style.pageContainer}>
       <img
-        src="https://miro.medium.com/v2/resize:fit:2000/1*kIgFEQYSKMk2DSW-yff5jg.jpeg"
+        src="https://img.freepik.com/premium-vector/illustration-vector-graphic-cartoon-character-freelance_516790-463.jpg"
         alt=""
       />
       <div className={style.formContainer}>
@@ -27,27 +27,24 @@ const Page = () => {
               />
             </div>
             <div className={style.formGroup}>
-              {/* <label>content:</label> */}
               <input
                 type="text"
                 name="content"
                 value={formData.items.content}
                 onChange={handleInputChange}
-                placeholder="Card img"
+                placeholder="Card content"
               />
             </div>
             <div className={style.formGroup}>
-              {/* <label>img:</label> */}
               <input
                 type="text"
                 name="img"
                 value={formData.items.img}
                 onChange={handleInputChange}
-                placeholder="Card content"
+                placeholder="Card image"
               />
             </div>
             <div className={style.formGroup}>
-              {/* <label>title:</label> */}
               <select
                 name="title"
                 value={formData.title}

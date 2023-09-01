@@ -1,3 +1,4 @@
+import Link from "next/link";
 import style from "./index.module.scss";
 
 const Card = (props: any) => {

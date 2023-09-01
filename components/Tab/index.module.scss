@@ -5,6 +5,8 @@
   align-items: center;
   border-bottom: 1px #e2e2e2 solid;
   padding: 2rem;
+  position: sticky;
+  background-color: #ffffff;
 
   h2 {
     font-weight: 600;
@@ -26,8 +28,8 @@
     }
 
     .active {
-      background-color: #8a2be2;
-      border-color: #8a2be2;
+      background-color: #0066bf;
+      border-color: #0066bf;
       color: white;
     }
   }
